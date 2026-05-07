@@ -55,18 +55,3 @@ INSERT INTO `sys_region` VALUES (11, '110112', '通州区', ' /北京市/通州�
 
 
 ```
-
-
-#### 捐赠支持
-<table>
-<tr>
-<td>
-<img src="https://gitee.com/zhangkss/region/raw/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260506232544_2_109.jpg" />
-</td>
-
-<td>
-<img src="https://gitee.com/zhangkss/region/raw/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260506232543_1_109.jpg" />
-</td>
-</tr>
-
-</table>
